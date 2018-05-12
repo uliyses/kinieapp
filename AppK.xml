@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppK>
+  <TEAMS>
+    <America>MX_Aguilas.png</America>
+    <Atlas>MX_Atlas.png</Atlas>
+    <Chivas>MX_Chivas.png</Chivas>
+    <CruzAzul>MX_Cruz.png</CruzAzul>
+    <Toluca>MX_Diablos.png</Toluca>
+    <Leon>MX_Leon.png</Leon>
+    <Monterrey>MX_Mty.png</Monterrey>
+    <Pumas>MX_Pumas.png</Pumas>
+    <Necaxa>MX_Rayos.png</Necaxa>
+    <Santos>MX_Santos.png</Santos>
+    <Tiburones>MX_tiburones.png</Tiburones>
+    <Pachuca>MX_Tuzos.png</Pachuca>
+
+  </TEAMS>
+</AppK>
